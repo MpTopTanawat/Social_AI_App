@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723353921400",
+    "firebase_url": "https://amongexperience-default-rtdb.firebaseio.com",
+    "project_id": "amongexperience",
+    "storage_bucket": "amongexperience.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723353921400:android:2278ce769fdd292c9b0a8d",
+        "android_client_info": {
+          "package_name": "com.example.exchange_experience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723353921400-6e5frnj6t79nkev21efp58uhf4k8h8hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exchange_experience",
+            "certificate_hash": "7b4aecb69e6763eedbe4317d86fff085ab8b7d8a"
+          }
+        },
+        {
+          "client_id": "723353921400-73flp5e0l6c4lmod9s7oj1c9hrvk8vjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8jkemcaqT80JS1prAm23uyFU0UbWiiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723353921400-73flp5e0l6c4lmod9s7oj1c9hrvk8vjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
